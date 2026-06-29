@@ -7,7 +7,7 @@
 ### Languages = ('Português','English','日本語')
 ---
 
-`Studying seriously: Languages(Python,C#).  Linux.  WEB(just HTML and CSS).`
+`Studying seriously: Languages(Python,C#).  Linux.  HTML and CSS.`
 
 ---
 - I'm working in my game...
